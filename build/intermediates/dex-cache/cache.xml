@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\gson-2.3.1-aa93818338f6fc5605cf9196cf4d650a32a3e934.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-528609e0ab8a9d14c5d077735829b1cb7f424e75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-94cfc4322d90d8bc5015d50545a1646d9ee4e290.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-500f22d3e96d18e9b937b72423bacc341b1f2123.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-8a2b185d261928f6171d870427f722543c222d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\rxjava-1.0.14-0fb6be07de6d3f411c722cad82432affe7f2b0b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-d2901f04591d826b526991ed3952212e58c3cf2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-8a2b185d261928f6171d870427f722543c222d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-2bc38f15ad3e8a7f3bdeb8d40194ff19617fc521.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-795f205b365d9d256999b02c619256bdc6f96225.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-591c3c6a736d55c808304ff22e065380dcdf5023.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\gson-2.3.1-aa93818338f6fc5605cf9196cf4d650a32a3e934.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-4147c6185203255974746fc1bd1b35e2a5ef8060.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-6a8a830cc99fc4660f544096d9ae9ee30e098827.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-7eab12d946d90216c3160762249c8ab95f654596.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-9370d85c841cda5d84188ae134962a5e0483c122.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\classes-011e848fdc797e0c64494a1648173885044c413c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Polycap\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Polycap\AndroidStudioProjects\Umbrella\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c8f608b5ef397b0e15d385aae108c07f69f22508.jar" />
+    </item>
+
+</items>
